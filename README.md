@@ -1,5 +1,7 @@
 # PVision
 Arduino library to interface to WiiMote/Pixart camera sensor
+
+![Pixart Camera Hookup](Pixart2Arduino.png)
 ```
 #include <Wire.h>
 #include <PVision.h>
