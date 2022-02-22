@@ -1,6 +1,6 @@
 # PVision
 Arduino library to interface to WiiMote/Pixart camera sensor
-
+```
 #include <Wire.h>
 #include <PVision.h>
 
@@ -56,3 +56,4 @@ void loop()
   // Short delay...
   delay(10);
 }
+```
